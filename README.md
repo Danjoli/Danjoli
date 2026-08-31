@@ -4,7 +4,7 @@
 
 ### Desenvolvedor PHP / Laravel | Back-end | APIs REST | Full Stack
 
-Desenvolvedor focado no ecossistema **PHP**, construindo aplicações web, APIs REST, e-commerces e sistemas back-end com **Laravel, Symfony, MySQL, PostgreSQL, Redis, Vue, React e TypeScript**.
+Desenvolvedor focado no ecossistema **PHP**, com projetos envolvendo aplicações web, e-commerces, APIs REST e sistemas back-end utilizando **Laravel, Symfony, MySQL, PostgreSQL, Redis, Vue, React e TypeScript**.
 
 📍 São Paulo, SP — Brasil
 
@@ -17,11 +17,10 @@ Desenvolvedor focado no ecossistema **PHP**, construindo aplicações web, APIs 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - 🐘 Foco em **PHP, Laravel e desenvolvimento Back-end**
 - 🔗 Desenvolvimento e consumo de **APIs REST**
-- 🗄️ Bancos de dados **MySQL e PostgreSQL**
+- 🗄️ Experiência com **MySQL e PostgreSQL**
 - 🧪 Testes automatizados com **Pest e PHPUnit**
-- ⚡ Experiência com aplicações monolíticas, SPA-like e arquiteturas desacopladas
-- 🏗️ Estudando arquitetura de software, padrões de projeto e boas práticas
-- 🚀 Buscando oportunidade como **Desenvolvedor PHP/Laravel Júnior**
+- 🏗️ Interesse em arquitetura, boas práticas, POO e qualidade de software
+- 💼 Buscando oportunidade como **Desenvolvedor PHP/Laravel Júnior**
 
 ---
 
@@ -45,346 +44,214 @@ Desenvolvedor focado no ecossistema **PHP**, construindo aplicações web, APIs 
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Banco de Dados & Cache
+### Dados, testes & ferramentas
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Testes, APIs & Ferramentas
-
 ![Pest](https://img.shields.io/badge/Pest-000000?style=for-the-badge&logo=php&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projetos
 
-## 👗 1. Malu Store
+Meu portfólio foi estruturado para explorar diferentes formas de desenvolvimento com **PHP**, evoluindo de aplicações Laravel monolíticas até APIs desacopladas, PHP puro, fundamentos internos de frameworks e Symfony.
 
-**PHP • Laravel • Blade • Tailwind CSS • MySQL**
+| # | Projeto | Stack principal | Foco |
+|---|---|---|---|
+| 1 | 👗 **Malu Store** | Laravel • Blade • Tailwind • MySQL | E-commerce Laravel monolítico completo |
+| 2 | 📚 **Lume** | Laravel • Blade • Tailwind • MySQL | Regras de negócio e organização de projeto |
+| 3 | 🖥️ **Tech Store** | Laravel • Inertia • Vue 3 • TypeScript • PostgreSQL | Laravel com frontend SPA-like |
+| 4 | 🎮 **Game Store** | Laravel REST API • React • TypeScript • PostgreSQL | Frontend e backend desacoplados |
+| 5 | ✅ **TaskFlow API** | Laravel • Sanctum • PostgreSQL • Redis • Pest • OpenAPI | API REST, autenticação, autorização e testes |
+| 6 | 🏢 **Sistema de Gestão PHP** | PHP • Composer • MVC • PDO • MySQL • PHPUnit | PHP puro, POO, arquitetura e SQL avançado |
+| 7 | 🧱 **Mini Framework PHP** | PHP • Composer • PSR • PDO | Fundamentos internos de frameworks |
+| 8 | 🔐 **Identity Service** | Symfony • Doctrine • PostgreSQL • PHPUnit | Symfony, autenticação e ecossistema PHP |
 
-E-commerce completo desenvolvido com Laravel utilizando arquitetura monolítica.
+---
 
-**Principais recursos:**
+# ⭐ Projetos em Destaque
 
-- Catálogo de produtos, categorias e variantes
-- Carrinho de compras e checkout
-- Cadastro e autenticação de usuários
-- Gestão de endereços
+## 👗 Malu Store
+
+**Laravel • Blade • Tailwind CSS • MySQL**
+
+E-commerce completo desenvolvido com arquitetura monolítica Laravel, cobrindo o fluxo entre catálogo, carrinho, checkout, pagamento, logística e administração.
+
+`E-commerce` `Laravel` `MySQL` `Pagamentos` `Frete` `Webhooks`
+
+**Principais recursos**
+
+- Catálogo com categorias, produtos e variantes
+- Carrinho e checkout
+- Autenticação e endereços
 - Gestão de pedidos
-- Controle de estoque
 - Painel administrativo
 - Dashboard com indicadores
-- Integração com gateway de pagamento
-- Pagamentos PIX e boleto
+- Integração com pagamentos
 - Integração com serviço de frete
 - Webhooks
 
-**Foco:** Laravel monolítico e desenvolvimento de um fluxo completo de e-commerce.
+**Foco técnico:** desenvolvimento de uma aplicação Laravel completa envolvendo múltiplas regras de negócio e integrações externas.
 
 ---
 
-## 📚 2. Lume
+## 🖥️ Tech Store
 
-**PHP • Laravel • Blade • Tailwind CSS • MySQL**
+**Laravel • Inertia.js • Vue 3 • TypeScript • PostgreSQL**
 
-Livraria virtual desenvolvida com foco em organização de projeto, regras de negócio e evolução da arquitetura Laravel.
+E-commerce desenvolvido para explorar a integração entre Laravel e um frontend moderno sem separar completamente as duas aplicações.
 
-**Principais recursos:**
+`Laravel` `Inertia` `Vue` `TypeScript` `PostgreSQL`
 
-- Catálogo de livros
-- Autores e editoras
-- Categorias hierárquicas
-- Carrinho de compras
-- Checkout e pedidos
-- Gestão de endereços
-- Avaliações
-- Lista de desejos
-- Painel administrativo
-- Dashboard com métricas
-- Relatórios de vendas
-- Livros mais vendidos
-- Form Requests
-- Services
-- Separação de responsabilidades
+**Arquitetura**
 
-**Foco:** Laravel mais estruturado, regras de negócio e organização de aplicações.
+`Laravel → Inertia.js → Vue 3 + TypeScript`
 
----
+**Principais recursos**
 
-## 🖥️ 3. Tech Store
-
-**Laravel • Inertia.js • Vue 3 • TypeScript • PostgreSQL • Tailwind CSS**
-
-E-commerce de tecnologia utilizando Laravel integrado a um frontend moderno baseado em Vue 3 e TypeScript.
-
-**Principais recursos:**
-
-- Laravel 12
-- Inertia.js
-- Vue 3
-- TypeScript
-- PostgreSQL
 - Catálogo de produtos
 - Marcas e categorias
 - Produtos e variantes
 - Gerenciamento de imagens
 - Painel administrativo
-- Componentização do frontend
-- Validação de dados
+- Componentização com Vue
+- Tipagem com TypeScript
+- Validação
 - Testes automatizados
-- Vite
 
-**Arquitetura:**
-
-`Laravel → Inertia.js → Vue 3 + TypeScript`
-
-**Foco:** Laravel com frontend moderno e experiência SPA-like sem separar completamente frontend e backend.
+**Foco técnico:** desenvolvimento SPA-like mantendo Laravel como núcleo da aplicação.
 
 ---
 
-## 🎮 4. Game Store
+## 🎮 Game Store
 
 **Laravel REST API • React • TypeScript • PostgreSQL**
 
-E-commerce de jogos desenvolvido utilizando frontend e backend completamente desacoplados.
+Aplicação full stack construída com frontend e backend independentes.
 
-### ⚙️ Back-end
+`REST API` `Laravel` `React` `TypeScript` `PostgreSQL`
 
-- Laravel
-- REST API
+**Arquitetura**
+
+`React + TypeScript → HTTP/JSON → Laravel REST API → PostgreSQL`
+
+**Back-end**
+
+- REST API com Laravel
 - PostgreSQL
-- Controllers
 - Form Requests
 - API Resources
 - Services
-- Validação
 - Autenticação
-- Regras de negócio
+- Validação e regras de negócio
 
-### ⚛️ Front-end
+**Front-end**
 
 - React
 - TypeScript
 - Vite
-- Consumo de API REST
+- Consumo da API
 - Componentização
 - Gerenciamento de estado
-- Interface responsiva
 
-### 🔗 Arquitetura
-
-`React + TypeScript → HTTP/JSON → Laravel REST API → PostgreSQL`
-
-**Foco:** arquitetura full stack desacoplada e comunicação entre aplicações independentes através de API REST.
+**Foco técnico:** comunicação entre frontend e backend completamente desacoplados através de uma API REST.
 
 ---
 
-## ✅ 5. TaskFlow API
+## ✅ TaskFlow API
 
 **Laravel • Sanctum • PostgreSQL • Redis • Pest • OpenAPI**
 
-API REST desenvolvida com foco exclusivo em engenharia back-end.
+Projeto focado exclusivamente em desenvolvimento back-end e construção de uma API preparada para ser consumida por diferentes clientes.
 
-**Principais recursos:**
+`REST API` `Sanctum` `Redis` `Pest` `OpenAPI`
 
-- REST API
-- Autenticação com Laravel Sanctum
-- Tokens de acesso
-- Autorização
-- Roles e permissões
-- Gestão de usuários
-- Projetos
-- Tarefas
-- Form Requests
-- API Resources
+**Principais recursos**
+
+- API REST
+- Autenticação com Sanctum
+- Autorização e permissões
+- Gestão de usuários, projetos e tarefas
 - PostgreSQL
-- Redis
-- Cache
-- Filas
-- Jobs
-- Paginação
-- Filtros
+- Cache com Redis
+- Jobs e filas
+- Paginação e filtros
 - Tratamento padronizado de erros
 - Testes automatizados com Pest
-- Documentação com OpenAPI
+- Documentação OpenAPI
 
-**Foco:** desenvolvimento de uma API REST robusta, testável, documentada e preparada para diferentes clientes.
+**Foco técnico:** APIs REST robustas, autenticação, autorização, cache, testes e documentação.
 
 ---
 
-## 🏢 6. Sistema de Gestão PHP
+# 🧩 Outros Projetos
+
+## 📚 Lume
+
+**Laravel • Blade • Tailwind CSS • MySQL**
+
+Livraria virtual com foco em **organização de projeto e regras de negócio**, incluindo catálogo de livros, autores, editoras, categorias hierárquicas, carrinho, pedidos, avaliações, lista de desejos e dashboard administrativo.
+
+**Foco técnico:** evolução da arquitetura Laravel, Services, Form Requests e separação de responsabilidades.
+
+---
+
+## 🏢 Sistema de Gestão PHP
 
 **PHP • Composer • MVC • PDO • MySQL • PHPUnit**
 
-Sistema administrativo desenvolvido em PHP puro, sem utilização de frameworks full stack.
+Sistema administrativo desenvolvido sem framework full stack, utilizando **PHP orientado a objetos**, arquitetura MVC, Composer, autoload PSR-4, PDO, autenticação, controle de acesso, módulos gerenciais, relatórios, transações e consultas SQL avançadas.
 
-**Principais recursos:**
-
-- PHP orientado a objetos
-- Arquitetura MVC
-- Composer
-- Autoload PSR-4
-- PDO
-- MySQL
-- Autenticação
-- Sessões
-- Controle de acesso
-- Roles e permissões
-- Módulos administrativos
-- CRUDs
-- Relatórios
-- Filtros
-- Paginação
-- Transações
-- Joins
-- Consultas SQL avançadas
-- Exceptions
-- Validação
-- Testes com PHPUnit
-
-**Foco:** demonstrar domínio de PHP além de frameworks, incluindo POO, arquitetura, banco de dados e SQL.
+**Foco técnico:** demonstrar domínio de PHP além do Laravel e compreensão dos fundamentos utilizados por frameworks.
 
 ---
 
-## 🧱 7. Mini Framework PHP
+## 🧱 Mini Framework PHP
 
 **PHP • Composer • PSR • PDO**
 
-Mini framework desenvolvido do zero para estudar e implementar os principais mecanismos encontrados internamente em frameworks PHP modernos.
+Framework PHP desenvolvido do zero para implementar conceitos como:
 
-**Principais componentes:**
+`Front Controller → Router → Middleware → Controller → Service → Response`
 
-- Front Controller
-- Router
-- Request
-- Response
-- Controllers
-- Middlewares
-- Dependency Injection
-- Service Container
-- Composer
-- Autoload PSR-4
-- Padrões PSR
-- PDO
-- Camada de banco de dados
-- Variáveis de ambiente
-- Tratamento global de exceções
-- Estrutura MVC
+Inclui Request/Response, roteamento, middlewares, Dependency Injection, Service Container, autoload PSR-4, PDO e tratamento de exceções.
 
-**Fluxo simplificado:**
-
-`Request → Router → Middleware → Controller → Service → Response`
-
-**Foco:** compreender os fundamentos internos de frameworks e aprofundar conhecimentos em PHP moderno e arquitetura.
+**Foco técnico:** compreender como frameworks PHP funcionam internamente.
 
 ---
 
-## 🔐 8. Identity Service
+## 🔐 Identity Service
 
 **Symfony • Doctrine ORM • PostgreSQL • PHPUnit**
 
-Serviço de identidade e autenticação desenvolvido utilizando Symfony e seu ecossistema.
+Serviço de identidade e autenticação construído com Symfony, explorando cadastro, login, autenticação, autorização, roles, permissões, Doctrine ORM, Dependency Injection, Services, Repositories e testes automatizados.
 
-**Principais recursos:**
-
-- Symfony
-- REST API
-- Doctrine ORM
-- PostgreSQL
-- Cadastro de usuários
-- Login
-- Autenticação
-- Autorização
-- Roles e permissões
-- Hash de senhas
-- Validação
-- Dependency Injection
-- Services
-- Repositories
-- Entities
-- Migrations
-- Tratamento de exceções
-- Testes automatizados com PHPUnit
-
-**Arquitetura:**
+**Arquitetura**
 
 `Client → Symfony API → Doctrine ORM → PostgreSQL`
 
-**Foco:** desenvolvimento com um segundo grande framework PHP, explorando Symfony, Doctrine e serviços de identidade.
+**Foco técnico:** expandir o conhecimento além do Laravel e trabalhar com outro importante ecossistema PHP.
 
 ---
 
-# 🧠 Conhecimentos Técnicos
+# 🧠 Fundamentos & Práticas
 
-### PHP & Back-end
-
-- PHP moderno
-- Programação Orientada a Objetos
-- Classes, interfaces e traits
-- Herança e polimorfismo
-- Namespaces
-- Exceptions
-- Composer
-- Autoload PSR-4
-- Laravel
-- Symfony
-- MVC
-- Dependency Injection
-- Service Container
-- SOLID
-- Design Patterns
-- Clean Code
-
-### APIs & Web
-
-- HTTP
-- REST
-- APIs REST
-- JSON
-- Autenticação
-- Autorização
-- Tokens
-- Laravel Sanctum
-- OpenAPI
-- Webhooks
-- Integração entre sistemas
-
-### Banco de Dados
-
-- MySQL
-- PostgreSQL
-- SQL
-- Modelagem relacional
-- Chaves primárias e estrangeiras
-- Joins
-- Índices
-- Transações
-- Migrations
-- Eloquent ORM
-- Doctrine ORM
-- PDO
-
-### Qualidade & Desenvolvimento
-
-- Git
-- GitHub
-- Branches
-- Pull Requests
-- Code Review
-- Testes unitários
-- Testes de integração
-- Feature Tests
-- Pest
-- PHPUnit
-- Postman
-- Debugging
+```text
+PHP moderno           APIs REST             SQL
+POO                    HTTP / JSON           Modelagem de dados
+SOLID                  Autenticação          Migrations
+MVC                    Autorização           ORM / PDO
+Design Patterns        Webhooks              Transações
+Dependency Injection   OpenAPI               Git / GitHub
+Composer               Testes automatizados  Pull Requests
+PSR / Autoload         Pest / PHPUnit        Code Review
+```
 
 ---
 
@@ -400,29 +267,16 @@ Serviço de identidade e autenticação desenvolvido utilizando Symfony e seu ec
 
 ---
 
-# 🎯 Atualmente
-
-- 🔨 Desenvolvendo e evoluindo projetos com **PHP e Laravel**
-- 📚 Aprofundando conhecimentos em **back-end e arquitetura**
-- 🧪 Praticando **testes automatizados**
-- 🐘 Expandindo conhecimentos no ecossistema **PHP**
-- ⚙️ Estudando **Symfony e componentes internos de frameworks**
-- 💼 Preparando portfólio para oportunidades como **Desenvolvedor PHP/Laravel Júnior**
-
----
-
 # 📫 Contato
 
 <div align="center">
 
-### Vamos conversar?
+Estou aberto a oportunidades como **Desenvolvedor PHP / Laravel Júnior**, especialmente em desenvolvimento back-end e APIs.
 
-Estou aberto a oportunidades como **Desenvolvedor PHP / Laravel Júnior**, principalmente em posições de desenvolvimento back-end.
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Danjoli-181717?style=for-the-badge&logo=github)](https://github.com/Danjoli)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Danjoli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danjoli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo_de_Lima_Fiod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE-SEU-LINKEDIN-AQUI)
-
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:COLOQUE-SEU-EMAIL-AQUI)
 
 </div>
@@ -433,6 +287,6 @@ Estou aberto a oportunidades como **Desenvolvedor PHP / Laravel Júnior**, princ
 
 ### 🐘 PHP • Laravel • Symfony • APIs REST • PostgreSQL • MySQL
 
-**Transformando conhecimento em projetos reais.**
+**Desenvolvendo software para transformar conhecimento técnico em experiência prática.**
 
 </div>
