@@ -8,6 +8,8 @@ Desenvolvedor focado no ecossistema **PHP**, com projetos envolvendo aplicaçõe
 
 📍 São Paulo, SP — Brasil
 
+🌐 [**Acessar meu Portfólio**](https://danjoli.github.io/portfolio/)
+
 </div>
 
 ---
@@ -275,9 +277,9 @@ Estou aberto a oportunidades como **Desenvolvedor PHP / Laravel Júnior**, espec
 
 <br>
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danjoli.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Danjoli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danjoli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo_de_Lima_Fiod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE-SEU-LINKEDIN-AQUI)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:COLOQUE-SEU-EMAIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo_de_Lima_Fiod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-de-lima-fiod-73806522a/)
 
 </div>
 
