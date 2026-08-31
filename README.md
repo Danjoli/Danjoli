@@ -243,7 +243,7 @@ Serviço de identidade e autenticação construído com Symfony, explorando cada
 # 🧠 Fundamentos & Práticas
 
 ```text
-PHP moderno           APIs REST             SQL
+PHP moderno            APIs REST             SQL
 POO                    HTTP / JSON           Modelagem de dados
 SOLID                  Autenticação          Migrations
 MVC                    Autorização           ORM / PDO
