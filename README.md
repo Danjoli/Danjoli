@@ -275,7 +275,7 @@ PSR / Autoload         Pest / PHPUnit        Code Review
 
 Estou aberto a oportunidades como **Desenvolvedor PHP / Laravel Júnior**, especialmente em desenvolvimento back-end e APIs.
 
-<br><br>
+<br>
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danjoli.github.io/portfolio/)
 
