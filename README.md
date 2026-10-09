@@ -43,6 +43,7 @@ Desenvolvedor focado no ecossistema **PHP**, com projetos envolvendo aplicaçõe
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -66,14 +67,14 @@ Meu portfólio foi estruturado para explorar diferentes formas de desenvolviment
 
 | # | Projeto | Stack principal | Foco |
 |---|---|---|---|
-| 1 | 👗 **Malu Store** | Laravel • Blade • Tailwind • MySQL | E-commerce Laravel monolítico completo |
-| 2 | 📚 **Lume** | Laravel • Blade • Tailwind • MySQL | Regras de negócio e organização de projeto |
-| 3 | 🖥️ **Tech Store** | Laravel • Inertia • Vue 3 • TypeScript • PostgreSQL | Laravel com frontend SPA-like |
-| 4 | 🎮 **Game Store** | Laravel REST API • React • TypeScript • PostgreSQL | Frontend e backend desacoplados |
-| 5 | ✅ **TaskFlow API** | Laravel • Sanctum • PostgreSQL • Redis • Pest • OpenAPI | API REST, autenticação, autorização e testes |
-| 6 | 🏢 **Sistema de Gestão PHP** | PHP • Composer • MVC • PDO • MySQL • PHPUnit | PHP puro, POO, arquitetura e SQL avançado |
-| 7 | 🧱 **Mini Framework PHP** | PHP • Composer • PSR • PDO | Fundamentos internos de frameworks |
-| 8 | 🔐 **Identity Service** | Symfony • Doctrine • PostgreSQL • PHPUnit | Symfony, autenticação e ecossistema PHP |
+| 1 | 👗 [**Malu Store**](https://github.com/Danjoli/malu-store) | Laravel • Blade • Tailwind • MySQL | E-commerce Laravel monolítico completo |
+| 2 | 📚 [**Lume**](https://github.com/Danjoli/lume) | Laravel • Blade • Tailwind • MySQL | Regras de negócio e organização de projeto |
+| 3 | 🖥️ [**Tech Store**](https://github.com/Danjoli/tech-store) | Laravel • Inertia • Vue 3 • TypeScript • PostgreSQL | Laravel com frontend SPA-like |
+| 4 | 🎮 [**Game Store**](https://github.com/Danjoli/game-store) | Laravel REST API • React • TypeScript • PostgreSQL | Frontend e backend desacoplados |
+| 5 | ✅ [**TaskFlow API**](https://github.com/Danjoli/taskflow-api) | Laravel • Sanctum • PostgreSQL • Redis • Pest • OpenAPI | API REST, autenticação, autorização e testes |
+| 6 | 🏢 [**Sistema de Gestão PHP**](https://github.com/Danjoli/management-system) | PHP • Composer • MVC • PDO • MySQL • PHPUnit | PHP puro, POO, arquitetura e SQL avançado |
+| 7 | 🧱 [**Mini Framework PHP**](https://github.com/Danjoli/php-mini-framework) | PHP • Composer • PSR • PDO | Fundamentos internos de frameworks |
+| 8 | 🔐 [**Identity Service**](https://github.com/Danjoli/identity-service) | Symfony • Doctrine • PostgreSQL • PHPUnit | Symfony, autenticação e ecossistema PHP |
 
 ---
 
@@ -289,7 +290,7 @@ Estou aberto a oportunidades como **Desenvolvedor PHP / Laravel Júnior**, espec
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danjoli50@gmail.com)
 
 </div>
 
