@@ -69,7 +69,7 @@ Meu portfólio foi estruturado para explorar diferentes formas de desenvolviment
 |---|---|---|---|
 | 1 | 👗 [**Malu Store**](https://github.com/Danjoli/malu-store) | Laravel • Blade • Tailwind • MySQL | E-commerce Laravel monolítico completo |
 | 2 | 📚 [**Lume**](https://github.com/Danjoli/lume) | Laravel • Blade • Tailwind • MySQL | Regras de negócio e organização de projeto |
-| 3 | 🖥️ [**Tech Store**](https://github.com/Danjoli/tech-store) | Laravel • Inertia • Vue 3 • TypeScript • PostgreSQL | Laravel com frontend SPA-like |
+| 3 | 🖥️ [**Tech Store**](https://github.com/Danjoli/tech-store) | Laravel • Inertia • Vue 3 • TypeScript • MySQL | Laravel com frontend SPA-like |
 | 4 | 🎮 [**Game Store**](https://github.com/Danjoli/game-store) | Laravel REST API • React • TypeScript • PostgreSQL | Frontend e backend desacoplados |
 | 5 | ✅ [**TaskFlow API**](https://github.com/Danjoli/taskflow-api) | Laravel • Sanctum • PostgreSQL • Redis • Pest • OpenAPI | API REST, autenticação, autorização e testes |
 | 6 | 🏢 [**Sistema de Gestão PHP**](https://github.com/Danjoli/management-system) | PHP • Composer • MVC • PDO • MySQL • PHPUnit | PHP puro, POO, arquitetura e SQL avançado |
@@ -106,11 +106,11 @@ E-commerce completo desenvolvido com arquitetura monolítica Laravel, cobrindo o
 
 ## 🖥️ Tech Store
 
-**Laravel • Inertia.js • Vue 3 • TypeScript • PostgreSQL**
+**Laravel • Inertia.js • Vue 3 • TypeScript • MySQL**
 
 E-commerce desenvolvido para explorar a integração entre Laravel e um frontend moderno sem separar completamente as duas aplicações.
 
-`Laravel` `Inertia` `Vue` `TypeScript` `PostgreSQL`
+`Laravel` `Inertia` `Vue` `TypeScript` `MySQL`
 
 **Arquitetura**
 
